@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tome Raider Add</title>
+  <!-- Latest compiled and minified CSS & JS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'
+    type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  <!-- Custom styles for this template -->
+  <link href="css/agency.min.css" rel="stylesheet">
+  <link href="css/book_exchange.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top bg">
+
+  <div class="form-container">
+
+    <div class="row justify-content-center">
+
+      <div class="col-10">
+
+        <div class="card">
+          <div class="card-header">
+            <h3><strong>Add your book</strong></h3>
+          </div>
+          <div class="card-body">
+
+            <form method="POST" role="form">
+
+              <!-- Title -->
+              <h4> Search for your book</h4>
+              <div class="form-group">
+                <label for="title">Title</label>
+                <input type="text" class="form-control" id="title">
+              </div>
+              <!-- Author -->
+              <div class="form-group">
+                <label for="author">Author</label>
+                <input type="text" class="form-control" id="author">
+              </div>
+
+              <div class="row">
+                <div class="col">
+                  <hr>
+                </div>
+                <div class="col-auto">OR</div>
+                <div class="col"><hr></div>
+
+                
+            </div>
+
+              <!-- ISBN -->
+              <!-- glyphicon-question-sign needs work -->
+              <div class="form-group">
+                <label for="author">ISBN <span class="glyphicon glyphicon-search" aria-hidden="true"></span> </label>
+                <input type="text" class="form-control" id="isbn">
+              </div>
+
+              <button type="submit" class="btn btn-lg btn-primary" id="add-btn">Find</button>
+              <a id='clear' href=''>Clear</a>
+              <div class="col"><hr></div>
+                <div id="book-results" class="flexcontainer"></div>
+
+
+          <div class="col">
+            <hr>
+          </div>
+
+          <div class="flexcontainer">
+            <div class="flexcontainer" id="book-results"></div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+  </div>
+  </div>
+  <script type="text/javascript" src="./js/script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+
+</html>
