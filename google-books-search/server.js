@@ -6,10 +6,10 @@ var mongoose = require("mongoose");
 // Axios is a promised-based http library, similar to jQuery's Ajax method
 // It works on the client and on the server
 var axios = require("axios");
-var cheerio = require("cheerio");
+
 
 // Require all models
-var db = require("./models");
+var db = require("./src/bookModel");
 
 var PORT = 3000;
 
