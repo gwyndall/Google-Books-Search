@@ -14,7 +14,8 @@ class SaveBook extends React.Component {
         const authors = data.authors;
         const image = data.imageLinks.thumbnail;
         const newBook = {bookId, title, authors, description, bookLink, image};
-
+        console.log(newBook);
+        alert("Book Saved! Click on Saved Books to see all saved titles")
     };
 
    

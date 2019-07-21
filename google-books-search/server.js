@@ -1,6 +1,6 @@
 var express = require("express");
 var logger = require("morgan");
-var mongoose = require("mongoose");
+
 
 // Our scraping tools
 // Axios is a promised-based http library, similar to jQuery's Ajax method
@@ -27,8 +27,16 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // Connect to the Mongo DB
-mongoose.connect("mongodb://localhost/googlebooks", { useNewUrlParser: true });
-
+const mongoose = require("mongoose");
+const mongoURL = process.env.PROD_MONGODB || "mongodb://localhost:27017/googlebooks"
+mongoose.connect(mongoURL, {useNewUrlParser: true})
+  .then(() => {
+    console.log("🗄 ==> Successfully connected to mongoDB.");
+  })
+  .catch((err) => {
+    console.log(`Error connecting to mongoDB: ${err}`);
+  });
+  
 // Routes
 // POST route for saving a new Book to the db 
 app.post("/save", function(req, res) {
