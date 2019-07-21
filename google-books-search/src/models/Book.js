@@ -28,6 +28,10 @@ var BookSchema = new Schema({
    link: {
     type: String,
     trim: true
+  },
+  id: {
+    type: String,
+    unique: true
   }
 });
 

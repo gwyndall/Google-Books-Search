@@ -1,0 +1,783 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2994,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FWGsyxSc8ccC",
+   "etag": "xJuSk9wSbso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FWGsyxSc8ccC",
+   "volumeInfo": {
+    "title": "Jane",
+    "authors": [
+     "April Lindner"
+    ],
+    "publisher": "Poppy",
+    "publishedDate": "2010-10-11",
+    "description": "Forced to drop out of an esteemed East Coast college after the sudden death of her parents, Jane Moore takes a nanny job at Thornfield Park, the estate of Nico Rathburn, a world-famous rock star on the brink of a huge comeback. Practical and independent, Jane reluctantly becomes entranced by her magnetic and brooding employer and finds herself in the midst of a forbidden romance. But there's a mystery at Thornfield, and Jane's much-envied relationship with Nico is soon tested by an agonizing secret from his past. Torn between her feelings for Nico and his fateful secret, Jane must decide: Does being true to herself mean giving up on true love? An irresistible romance interwoven with a darkly engrossing mystery, this contemporary retelling of the beloved classic Jane Eyre promises to enchant a new generation of readers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780316122344"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0316122343"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 64,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FWGsyxSc8ccC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FWGsyxSc8ccC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FWGsyxSc8ccC&printsec=frontcover&dq=Jane&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FWGsyxSc8ccC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FWGsyxSc8ccC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FWGsyxSc8ccC&rdid=book-FWGsyxSc8ccC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jane-sample-epub.acsm?id=FWGsyxSc8ccC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FWGsyxSc8ccC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Practical and independent, Jane reluctantly becomes entranced by her magnetic and brooding employer and finds herself in the midst of a forbidden romance."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jFycFfH-HtkC",
+   "etag": "Gb9leUND0H4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jFycFfH-HtkC",
+   "volumeInfo": {
+    "title": "Me . . . Jane",
+    "authors": [
+     "Patrick McDonnell"
+    ],
+    "publisher": "Little, Brown Books for Young Readers",
+    "publishedDate": "2012-03-27",
+    "description": "Winner of the Caldecott Honor Patrick McDonnell-beloved, bestselling author-artist and creator of the Mutts syndicated comic strip--shares the inspiring story of young Jane Goodall, the legendary and inspiring conservationist featured in the hit documentary film Jane. In his characteristic heartwarming style, Patrick McDonnell tells the story of the young Jane Goodall and her special childhood toy chimpanzee named Jubilee. As the young Jane observes the natural world around her with wonder, she dreams of \"a life living with and helping all animals,\" until one day she finds that her dream has come true. With anecdotes taken directly from Jane Goodall's autobiography, McDonnell makes this very true story accessible for the very young--and young at heart. One of the world's most inspiring women, Dr. Jane Goodall is a renowned humanitarian, conservationist, animal activist, environmentalist, and United Nations Messenger of Peace. In 1977 she founded the Jane Goodall Institute (JGI), a global nonprofit organization that empowers people to make a difference for all living things.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780316210102"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0316210102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 605,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jFycFfH-HtkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jFycFfH-HtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jFycFfH-HtkC&printsec=frontcover&dq=Jane&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jFycFfH-HtkC&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Me_Jane.html?hl=&id=jFycFfH-HtkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "acsTokenLink": "http://books.google.com/books/download/Me_Jane-sample-epub.acsm?id=jFycFfH-HtkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jFycFfH-HtkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With anecdotes taken directly from Jane Goodall&#39;s autobiography, McDonnell makes this very true story accessible for the very young--and young at heart."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OiBWYTNlQOoC",
+   "etag": "6n18Zd3pRI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OiBWYTNlQOoC",
+   "volumeInfo": {
+    "title": "Jane",
+    "subtitle": "A Social Incident",
+    "authors": [
+     "Marie Corelli"
+    ],
+    "publisher": "Health Research Books",
+    "publishedDate": "1912",
+    "description": "1897 Illustrated by G.H. Edwards. an old fashion story of the 'coming out' of Jane much later in life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787302139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787302139"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OiBWYTNlQOoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OiBWYTNlQOoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OiBWYTNlQOoC&printsec=frontcover&dq=Jane&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OiBWYTNlQOoC&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jane.html?hl=&id=OiBWYTNlQOoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OiBWYTNlQOoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1897 Illustrated by G.H. Edwards. an old fashion story of the &#39;coming out&#39; of Jane much later in life."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dpFdelxBFWsC",
+   "etag": "KfjvXv83LJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dpFdelxBFWsC",
+   "volumeInfo": {
+    "title": "Jane's Addiction",
+    "subtitle": "In the Studio",
+    "authors": [
+     "Jake Brown"
+    ],
+    "publisher": "SCB Distributors",
+    "publishedDate": "2011-06",
+    "description": "Jane's Addiction's instantly-legendary catalog of albums spawned a generational movement that would change the face of rock n' roll forever, giving way to mainstream alternative rock in the 1990s. Now, for the first time fans are taken behind the scenes and quite literally into the studio for V.I.P. access inside the writing and recording of the legendary classics Jane Says, Coming Down the Mountain, Three Days, Been Caught Stealing, Stop, and a host of other songs. Chronicled via exclusive interviews with lead producer Dave Jerden, engineer Ronnie S. Champagne, legendary Pink Floyd producer Bob Ezrin, as well as early players in discovering the band, including former Triple X Records A&R head Charlie Brown, and members of Perry Farrell's first L.A. band PSI COM (where the sonic foundations of Jane's experimental sound were first discovered/fine-tuned), this is by far the most definitive study of Jane's Addiction's legendary musical legacy. Now in the pages of a Jane's Addiction: in the Studio, ' fans get the first and only definitive look inside the making of Jane's Addiction's legendary, genre-altering catalog of hits!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0983471622"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780983471622"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 150,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dpFdelxBFWsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dpFdelxBFWsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dpFdelxBFWsC&printsec=frontcover&dq=Jane&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dpFdelxBFWsC&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jane_s_Addiction.html?hl=&id=dpFdelxBFWsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jane_s_Addiction-sample-epub.acsm?id=dpFdelxBFWsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dpFdelxBFWsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Chronicled via exclusive interviews with lead producer Dave Jerden, engineer Ronnie S. Champagne, legendary Pink Floyd producer Bob Ezrin, as well as early players in discovering the band, including former Triple X Records A&amp;R head Charlie ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EozC2UbnXrMC",
+   "etag": "cSdJODMLcTo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EozC2UbnXrMC",
+   "volumeInfo": {
+    "title": "Jane",
+    "subtitle": "A Murder (Large Print 16pt)",
+    "authors": [
+     "Maggie Nelson",
+     "Michael Muhammad Knight"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2010-07-09",
+    "description": "Jane explores the nature of this haunting incident via a collage of poetry, prose, and documentary sources, including newspapers, related ''true crime'' books such as The Michigan Murders and Killers Among Us, and fragments from Jane's own diaries written when she was 13 and 21. Its eight sections cover Jane's childhood and early adulthood, her murder and its investigation, the direct and diffuse effect of her death on Nelson's girlhood and sisterhood, and a trip to Michigan Nelson took with her mother (Jane's sister) to retrace the path of Jane's final hours. Each piece in Jane has its own form that serves as an important fissure, disrupting the tabloid, ''page-turner'' quality of the story, and eventually returning the reader to deeper questions about girlhood, empathy, identification, and the essentially unknowable aspects of another's life and death. Part elegy, part memoir, part detective story, part meditation on violence, and part conversation between the living and the dead, Jane's powerful and disturbing subject matter, combined with its innovations in genre, expands the notion of what poetry can do - what kind of stories it can tell, and how it can tell them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458781062"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1458781062"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EozC2UbnXrMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EozC2UbnXrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EozC2UbnXrMC&printsec=frontcover&dq=Jane&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EozC2UbnXrMC&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jane.html?hl=&id=EozC2UbnXrMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EozC2UbnXrMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Each piece in Jane has its own form that serves as an important fissure, disrupting the tabloid, &#39;&#39;page-turner&#39;&#39; quality of the story, and eventually returning the reader to deeper questions about girlhood, empathy, identification, and the ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JuA0AAAAMAAJ",
+   "etag": "JWFmJix1BCc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JuA0AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Jane Eyre",
+    "authors": [
+     "Charlotte Brontë"
+    ],
+    "publishedDate": "1890",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015039284099"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Charity-schools"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2250,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.full.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JuA0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JuA0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JuA0AAAAMAAJ&printsec=frontcover&dq=Jane&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JuA0AAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JuA0AAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=JuA0AAAAMAAJ&rdid=book-JuA0AAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Jane_Eyre.epub?id=JuA0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Jane_Eyre.pdf?id=JuA0AAAAMAAJ&hl=&output=pdf&sig=ACfU3U1QjvpP2amPNCMXYjzX4kvtwPff5g&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JuA0AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s1gVAAAAYAAJ",
+   "etag": "EhG7g7FTPKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Pride and Prejudice",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publishedDate": "1918",
+    "description": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets’ home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044086796588"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 401,
+    "printType": "BOOK",
+    "categories": [
+     "Courtship"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2261,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.6.0.full.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&pg=PP1&dq=Jane&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s1gVAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&rdid=book-s1gVAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2VRHyDjVMT4oIaA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s1gVAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nqf_Wj2Wwx4C",
+   "etag": "5HpDsIh2jjA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nqf_Wj2Wwx4C",
+   "volumeInfo": {
+    "title": "Jane Austen in Hollywood",
+    "authors": [
+     "Linda Troost",
+     "Sayre N. Greenfield"
+    ],
+    "publisher": "University Press of Kentucky",
+    "publishedDate": "2001",
+    "description": "In 1995 and 1996 six film or television adaptations of Jane Austen's novels were produced -- an unprecedented number. More amazing, all were critical and/or box office successes. What accounts for this explosion of interest? Much of the appeal of these films lies in our nostalgic desire at the end of the millennium for an age of greater politeness and sexual reticence. Austen's ridicule of deceit and pretentiousness also appeals to our fin de siècle sensibilities. The novels were changed, however, to enhance their appeal to a wide popular audience, and the revisions reveal much about our own culture and its values. These recent productions espouse explicitly twentieth-century feminist notions and reshape the Austenian hero to make him conform to modern expectations. Linda Troost and Sayre Greenfield present fourteen essays examining the phenomenon of Jane Austen as cultural icon, providing thoughtful and sympathetic insights on the films through a variety of critical approaches. The contributors debate whether these productions enhance or undercut the subtle feminism that Austen promoted in her novels. From Persuasion to Pride and Prejudice, from the three Emmas (including Clueless ) to Sense and Sensibility, these films succeed because they flatter our intelligence and education. And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter on the recent film version of Mansfield Park.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813190061"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813190068"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&printsec=frontcover&dq=Jane&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_in_Hollywood.html?hl=&id=nqf_Wj2Wwx4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nqf_Wj2Wwx4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter on the recent film version of Mansfield Park."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sYXksZIRkT0C",
+   "etag": "aH7Q1M2LOn4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sYXksZIRkT0C",
+   "volumeInfo": {
+    "title": "Jane Austen and Marriage",
+    "authors": [
+     "Hazel Jones"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2009-07-08",
+    "description": "With original research, this book offers a new insight into Jane Austen's life and writing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847252180"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1847252184"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sYXksZIRkT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sYXksZIRkT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sYXksZIRkT0C&printsec=frontcover&dq=Jane&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sYXksZIRkT0C&dq=Jane&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_and_Marriage.html?hl=&id=sYXksZIRkT0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jane_Austen_and_Marriage-sample-epub.acsm?id=sYXksZIRkT0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sYXksZIRkT0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With original research, this book offers a new insight into Jane Austen&#39;s life and writing."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "paudDAAAQBAJ",
+   "etag": "dUwgmdzel1w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/paudDAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Death and Life of Great American Cities",
+    "authors": [
+     "Jane Jacobs"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2016-07-20",
+    "description": "Thirty years after its publication, The Death and Life of Great American Cities was described by The New York Times as \"perhaps the most influential single work in the history of town planning....[It] can also be seen in a much larger context. It is first of all a work of literature; the descriptions of street life as a kind of ballet and the bitingly satiric account of traditional planning theory can still be read for pleasure even by those who long ago absorbed and appropriated the book's arguments.\" Jane Jacobs, an editor and writer on architecture in New York City in the early sixties, argued that urban diversity and vitality were being destroyed by powerful architects and city planners. Rigorous, sane, and delightfully epigrammatic, Jacobs's small masterpiece is a blueprint for the humanistic management of cities. It is sensible, knowledgeable, readable, indispensable. The author has written a new foreword for this Modern Library edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525432852"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "052543285X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=paudDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=paudDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=paudDAAAQBAJ&printsec=frontcover&dq=Jane&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=paudDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-paudDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=paudDAAAQBAJ&rdid=book-paudDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Death_and_Life_of_Great_American_Cit-sample-epub.acsm?id=paudDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=paudDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It is sensible, knowledgeable, readable, indispensable. The author has written a new foreword for this Modern Library edition."
+   }
+  }
+ ]
+}
