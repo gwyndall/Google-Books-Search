@@ -10,7 +10,9 @@ function ResultList(props) {
         <li className="list-group-item" key={result.id} id={result.id}>
           <div className="title_buttons">
             <h3>{result.volumeInfo.title}</h3>
-            <ViewBook url={result.selfLink}/><SaveBook url={result.selfLink} />
+            <div className="buttonDiv">
+            <ViewBook url={result.selfLink}/><SaveBook data={result} />
+            </div>
           </div>
           <div className="authorInfo">
             <h4>{result.volumeInfo.authors.join(", ")}</h4>

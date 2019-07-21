@@ -1,15 +1,14 @@
 import React from 'react';
 import './App.css';
-// import SearchForm from './components/SearchForm';
 import SearchResultContainer from './components/SearchResultContainer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="App-container">
 
       <SearchResultContainer />
-      </header>
+      </div>
     </div>
   );
 }
