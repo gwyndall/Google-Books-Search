@@ -15,10 +15,24 @@ class SaveBook extends React.Component {
         const image = data.imageLinks.thumbnail;
         const newBook = {bookId, title, authors, description, bookLink, image};
         console.log(newBook);
+        // handleSaveClick(newBook);
         alert("Book Saved! Click on Saved Books to see all saved titles")
     };
 
-   
+    // handleSaveClick = function(e) {
+    //   this.setState({saved: true});
+    //   const bookData = e;
+    //   e.preventDefault();
+    //   API.addBookToDB(bookData).then(
+    //       (response) => {
+    //           console.log(response);
+    //       }
+    //   ).catch(
+    //       (err) => {
+    //           console.log(err);
+    //       }
+    //   );
+  // }
   
     render() {
       return (

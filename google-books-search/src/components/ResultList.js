@@ -18,14 +18,20 @@ function ResultList(props) {
             <h4>{result.volumeInfo.authors.join(", ")}</h4>
           </div>
           <div className="aboutBook">
-           <img alt={result.volumeInfo.title} className="img-fluid" src={result.volumeInfo.imageLinks.thumbnail} /> 
+           <img alt={result.volumeInfo.title} className="img-fluid" src=
+           {
+            // if smallthubmail exists on this.props.img use that else if thumbnail exists on this.props.img use that else leave src empty
+            (result.volumeInfo.imageLinks)? result.volumeInfo.imageLinks.thumbnail:
+            (result.volumeInfo.imageLinks)? result.volumeInfo.imageLinks.smallThumbnail: ""
+        } alt="book cover" /> 
            <p className="book-description">{result.volumeInfo.description}</p>
           </div>
         </li>
       ))}
     </ul>
+   
+   )
   
-  );
 }
 
 export default ResultList;
